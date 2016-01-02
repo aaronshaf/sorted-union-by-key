@@ -1,0 +1,29 @@
+{
+  "name": "sorted-union-by-key",
+  "version": "1.0.0",
+  "description": "Union of arrays of objects, sorted by property",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronshaf/sorted-union-by-key.git"
+  },
+  "keywords": [
+    "union"
+  ],
+  "author": "Aaron Shafovaloff <aaronshaf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronshaf/sorted-union-by-key/issues"
+  },
+  "homepage": "https://github.com/aaronshaf/sorted-union-by-key#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "object-assign": "^4.0.1",
+    "object-values": "^1.0.0"
+  }
+}
